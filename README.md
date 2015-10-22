@@ -1,2 +1,2 @@
 # GradleJavaTemplate
-A gradle template of directory structure for Java SE project
+A gradle template-directory structure for Java SE project
