@@ -27,7 +27,7 @@ Total time: 1 secs
 Some other useful tasks are:
 ```
 
-# clean
+## clean
 Deletes the build directory, removing all built files.
 
 ## assemble
